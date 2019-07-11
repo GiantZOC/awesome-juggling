@@ -1,11 +1,4 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-<div align="center">
-	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
-	<br>
-	<br>
-	<br>
-</div>
+Awesome Juggling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
 	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
@@ -13,6 +6,9 @@
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+This is a curated list of juggling websites.  There are many resources available on the web but they can be hard to find.  Search engines often don't rank these sites high enough for them to be discoverable. 
+
+Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 <br>
 
 ## Contents
@@ -24,85 +20,49 @@
 - [Computer Science](#computer-science)
 
 ## Social
+- [Juggling Edge](https://www.jugglingedge.com/clublistings.php) - Juggling club listings, upcoming juggling festivals and forum
 - [/r/Juggling](https://www.reddit.com/r/juggling/) - The largest reddit juggling community
 - [Juggling Rock](https://www.facebook.com/groups/JugglingRock/) - The most active facebook juggling community
-- [Juggling Edge Forum](https://www.jugglingedge.com/forum.php) - Juggling Edge Forum
+- [IJA](https://www.juggle.org/) - The International Juggler's Association runs an annual festival, has a forum and publishes juggling articles
 
-## Solo Juggling
-- [Juggling Tricks](https://www.jugglingtricks.net/) - A compilation of juggling information and tricks
+## Learning to Juggle
+- [How to Juggle](https://www.wikihow.com/Juggle) - The wikiHow page for juggling
+- [Passing Pedagogy](http://passingpedagogy.com/) - This site explains a methodology for teaching club passing
 
 ## Passing References
-- [MAJ Pattern Book](https://madjugglers.com/Files/majbook_v3.pdf) - The Madison Area Jugglers pattern book is a compilation of patterns 
-- [passingdb.com](https://www.passingdb.com/index.php) - The Passing DataBase 
+- [MAJ Pattern Book](https://madjugglers.com/majpatternbook) - This is a compilation of juggling patterns from the Madison Area Juggling Club
+- [Passing Pattern Anthology](https://jonglieren-jena.de/ppa/ppa.html) -  The Passing Pattern Anthology is a large collection of passing patterns
+- [passingdb.com](https://www.passingdb.com/index.php) - The Passing Database has a good collection of multiple person passing patterns
 - [Aerial Mirage Jugglers](http://www.gnerds.com/juggle/) - Contains a great deal of general passing information
-- [Ralph's Juggling Page](http://www.gnerds.com/juggle/Ralph/juggle4fun/) - Contains a few patterns I have not see elsewhere
-- [Passing Zone](https://passing.zone/) - The passing zone is an active passing enthusiast group in Europe (Germany?)
+- [Passing Zone](https://passing.zone/) - The passing zone is an active passing enthusiast group in Germany that works on new passing patterns
 - [Juggling Edge Passing Patterns](http://www.jugglingedge.com/pdf/PassingPatternsAug06.pdf) - An older compilation of passing patterns
-- [Passing Wiki](https://passingwiki.org/wiki/Main_Page) Passing Wiki
-- [Will's Passing Patterns] (http://web.csulb.edu/~wmurray/jugglingArticles/WillPatterns.pdf) A compilation of passing patterns from Will
-[Compatible Siteswaps](https://www.cs.cmu.edu/~ckaestne/siteswaps.xhtml) - A list of compatible siteswaps.  The two sides of a passing pattern can be different as long as the clubs arrive at the correct time.
-- [Two person Passing Pattern Spreadsheet](https://drive.google.com/file/d/0B26BTNBYVjFqdW9mWUgteDZYT00/view?ths=true) - A great list of passing patterns that are fun to work on
-- Scrambled Patterns
- - [Scrambled Videos](https://docs.google.com/spreadsheets/d/1o6tCVgmj909EldNV1tTExbkjnGE1fmdWprEIMp6B-1o/edit#gid=0) - Videos of all 27 scrambled V variations
- - [Scrambled Variations](http://koelnvention.de/runarounds/scrambled-v-variations/index.html) - Scrambled Variations
- - [Club Stealing Patterns](https://passing.zone/wp-content/uploads/2016/01/takeouts.pdf) - Club Stealing Patterns
+- [Will's Passing Patterns](http://web.csulb.edu/~wmurray/jugglingArticles/WillPatterns.pdf) A compilation of intermediate to advanced passing patterns from Will
+- [Compatible Siteswaps](https://www.cs.cmu.edu/~ckaestne/siteswaps.xhtml) - A list of compatible siteswaps with filters
+- [Two person Passing Pattern Spreadsheet](https://drive.google.com/file/d/0B26BTNBYVjFqdW9mWUgteDZYT00/view?ths=true) - A list of two person passing patterns siteswaps
+- [Berkeley Juggling Patterns](https://berkeleyjuggling.org/juggling-patterns/) Berkeley Juggling Patterns
+
 ## Tools
-- Siteswap Tools
- 
-- Websites
+- [Juggling Lab](https://jugglinglab.org/) - Juggling Lab is used to generate and animate juggling patterns
 - [Gunswap](http://www.gunswap.co/about) - Juggling Animator and Pattern Library
 - [Passist](https://passist.org/) - Passing siteswap assistant
 - [Juggloid](http://juggloid.com/) - Siteswap animator
-- [Juggling Graphics](https://juggling.graphics/) - Siteswap graphic creator
+- [Juggling Graphics](https://juggling.graphics/) - A siteswap graphic creator
 - [Prechact This](http://www.prechacthis.org/) - Creates a list of possible patterns based on user entered parameters
-- [Passing pattern interface generator](http://madeye.org/juggling/interfaces/) - Generates valid two person siteswaps
 - [Siteswap Generator](https://play.google.com/store/apps/details?id=namlit.siteswapgenerator&hl=gsw) - Siteswap generator for android
-- [Siteswap Suggest](http://joshmermelstein.com/juggle-suggest/) - Simple Siteswap Animator
-- [Siteswap Fractals](http://web.csulb.edu/~wmurray/siteswapFractal.html) - Siteswap Fractals
-
-- Desktop
- - [JoePass!](https://sourceforge.net/projects/joepass/) - Joepass is a juggling pattern animator
- - [Juggling Lab](https://jugglinglab.org/) - Juggling Lab
- - [Jongle](http://home.mnet-online.de/jongl/) - Juggling animation software
-- Mobile
-- [PassingSync](https://play.google.com/store/apps/details?id=edu.cmu.mastersofflyingobjects.passingsync) - Software that can be synced and tell each passer what to do
-- [Juggling Lab Android](https://play.google.com/store/apps/details?id=com.jonglen7.jugglinglab) - Juggling Lab for Android
-
-
-
-
-- [Pattern Generator](http://jacos.nl/how-to-use-the-pattern-generator/) - Pattern Generator
-- [Passing Pattern Anthology](https://jonglieren-jena.de/ppa/ppa.html -  Passing Pattern Anthology
-
+- [Siteswap Suggest](http://joshmermelstein.com/juggle-suggest/) - Simple Siteswap Animator with autocomplete feature
+- [Siteswap Fractals](http://web.csulb.edu/~wmurray/siteswapFractal.html) - Create fractal images from siteswap
+- [PassingSync](https://play.google.com/store/apps/details?id=edu.cmu.mastersofflyingobjects.passingsync) - Android app that can tell passing partners what to do in real time
 
 ## Videos
 - [Juggling TV](http://juggling.tv/) - Juggling specific video site
-- [Manipeo](http://manipeo.com/) - Curated juggling videos
-
-
-## Juggling Tricks
-- [Library of Juggling](http://www.libraryofjuggling.com/) - This site contains a large number of tricks with explanations
+- [Manipeo](http://manipeo.com/) - User submitted juggling videos
 
 ## Misc
-- [Juggling Records](https://www.juggling-records.com/) - Juggling Records
-- [Fight Night Combat](http://www.fightnightcombat.com/index.html) - Juggling combat tournaments
-- [Staffan's Juggling Page](http://madeye.org/juggling/) - Staffan's Juggling Page
+- [Juggling Records](https://www.juggling-records.com/) - Tracks current juggling world records
+- [Fight Night Combat](http://www.fightnightcombat.com/index.html) - Juggling combat tournaments and standings
 - [Juggling by Numbers - Numberphile](https://www.youtube.com/watch?time_continue=99&v=7dwgusHjA0Y) Siteswap Explanation Video
-
-
-
-## Juggling Clubs
-- [Juggling Edge Club List](https://www.jugglingedge.com/clublistings.php) - Juggling club listings
-
-
-## Festivals
-- [Juggling Festivals](https://www.jugglingedge.com/events.php) - Juggling Edge Festival List
-- [IJA](https://www.juggle.org/) - The Internation Juggler's Association Festival is a festival that meets in various cities in North America
-
-## Related
-
-- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
-- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
+- [Siteswap Bot](https://github.com/loganstafman/siteswap-bot) - This is the source for the reddit siteswap bot
+- [Library of Juggling](https://www.libraryofjuggling.com/) - A compilation of juggling tricks with explanations
 
 
 ## License
