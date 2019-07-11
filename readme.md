@@ -3,21 +3,21 @@ Awesome Juggling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <p align="center">
 	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-This is a curated list of juggling websites.  There are many resources available on the web but they can be hard to find.  Search engines often don't rank these sites high enough for them to be discoverable. 
+This is a curated list of juggling resources.  There are many resources on the web but many of them are out of date or hard to read.  Search engines often don't rank these sites high enough for them to be discoverable. 
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 <br>
 
 ## Contents
 
-- [Platforms](#platforms)
-- [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
+- [Social](#social)
+- [Learning to Juggle](#learning-to-juggle)
+- [Passing References](#passing-references)
+- [Tools](#tools)
+- [Videos](#videos)
+- [Misc](#misc)
 
 ## Social
 - [Juggling Edge](https://www.jugglingedge.com/clublistings.php) - Juggling club listings, upcoming juggling festivals and forum.
@@ -44,7 +44,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Tools
 - [Juggling Lab](https://jugglinglab.org/) - Juggling Lab is used to generate and animate juggling patterns.
 - [Gunswap](http://www.gunswap.co/about) - Gunswap is a juggling animator and patern library.
-
 - [Juggloid](http://juggloid.com/) - Juggleoid is a siteswap animator with a large number of patterns that have already been created.
 - [Juggling Graphics](https://juggling.graphics/) - A siteswap graphic creator.
 - [Prechact This](http://www.prechacthis.org/) - Prechact this is a siteswap generator.
@@ -63,8 +62,3 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Juggling by Numbers - Numberphile](https://www.youtube.com/watch?time_continue=99&v=7dwgusHjA0Y) - Siteswap explanation video from Numberphile.
 - [Siteswap Bot](https://github.com/loganstafman/siteswap-bot) - This is the source for the reddit siteswap bot.
 - [Library of Juggling](https://www.libraryofjuggling.com/) - A compilation of juggling tricks with explanations.
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

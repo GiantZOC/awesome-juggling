@@ -1,15 +1,3 @@
-# Contribution Guidelines
-
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
-
-## Adding an awesome list
-
-Please ensure your pull request adheres to the [list guidelines](pull_request_template.md).
-
-## Creating your own awesome list
-
-To create your own list, check out the [instructions](create-list.md).
-
 ## Adding something to an awesome list
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
@@ -33,3 +21,8 @@ Sometimes, a maintainer of an awesome list will ask you to edit your Pull Reques
 Paste the content below the current table of contents and then replace the table of contents with the output from this generator.
 
 http://doctoc.herokuapp.com/
+
+## Run the Linter
+```
+npm run test
+```
