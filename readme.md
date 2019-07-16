@@ -40,6 +40,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Berkeley Juggling Patterns](https://berkeleyjuggling.org/juggling-patterns/) - A collection of passing patterns from the Berkeley Juggling Club.
 - [Aerial Mirage Jugglers](http://www.gnerds.com/juggle/) - A collection of passing patterns and explanations from the Aerial Mirage Jugglers.
 - [Aidan's Juggling Resources](http://www.juggle.me.uk/passing/) - A collection of patterns and explanations from Aiden Burns.
+- [Passing Wiki](https://passingwiki.org/wiki/Main_Page) - A passing pattern wiki.
+
 
 ## Tools
 - [Juggling Lab](https://jugglinglab.org/) - Software used to generate and animate juggling patterns.
@@ -54,6 +56,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Siteswap Suggest](http://joshmermelstein.com/juggle-suggest/) - A siteswap animator with an autocomplete feature.
 - [PassingSync](https://play.google.com/store/apps/details?id=edu.cmu.mastersofflyingobjects.passingsync) - An android app that speaks juggling instructions for passing partners to follow along with.
 - [Madeye](http://madeye.org/juggling/) - A variety of siteswap tools.
+- [Pattern Generator](http://jacos.nl/how-to-use-the-pattern-generator/) - A pattern generator website.
 
 ## Videos
 - [Juggling TV](http://juggling.tv/) - A juggling specific video site.
