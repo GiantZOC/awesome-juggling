@@ -5,7 +5,7 @@ Awesome Juggling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-This is a curated list of juggling resources.  There are many resources on the web but many of them are out of date or hard to read.  Search engines often don't rank these sites high enough for them to be easily discoverable. 
+This is a curated list of juggling resources.  There are many great juggling resources on the web but they can be hard to find since search engines don't rank them highly.
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 <br>
@@ -69,27 +69,25 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Vendors
 Alphabetical
 
-- [Air Traffic Toys](http://airtraffictoys.com/) - Sells a variety of juggling props from brick and mortar stores based in Minnesota.
-- [Bravo Juggling](http://www.bravojuggling.com/) - Sells a variety of juggling props.
-- [Brontosaurus Balls](http://brontosaurusballs.com/) - Specializes in russian juggling balls.
-- [Dube](https://www.dube.com/) - Sells a variety of juggling props.
-- [Firetoys](https://www.firetoys.com/) - Sells a variety of juggling props.
-- [Flairco](http://www.flairco.com/welcome.cfm) - Sells flair bartending supplies.
-- [Flames 'N Games](https://flamesngames.co.uk/) - Sells a variety of juggling props.
-- [Flowtoys](https://flowtoys.com/) - Sells a variety of juggling props.
-- [Flying Clipper](https://www.flyingclipper.com/) - Sells footbags and juggling balls.
-- [Gballz](https://gballz.com/) - Specializes in juggling balls.
-- [Henrys](https://www.henrys-online.de/en/)- Sells a variety of juggling equipment.
-- [Higgins Brothers](http://higginsbrothers.com/en/) - Sells a variety of juggling props.
-- [Master Ongs Prop Shop](http://www.masterongspropshop.com/) - Sells a variety of juggling props.
-- [Odd Balls](https://www.oddballs.co.uk/) - Sells a variety of juggling props.
-- [Pass the Props](http://passtheprops.com/) - Sells a variety of juggling props.
-- [Play Juggling](https://www.playjuggling.com/en/) - Sells a variety of juggling props.
-- [Renegade Juggling](https://www.renegadejuggling.com/) - Sells a variety of juggling props.
-- [Serious Juggling](http://www.seriousjuggling.com/) - Sells a variety of juggling props.
-- [Sport Juggling Company](http://sportjugglingco.com/) - Specializes in juggling balls.
-- [Todd Smith](http://toddsmith.com/) - Sells a variety of juggling props.
-- [Three Finger Juggling](https://threefingerjuggling.com/) - Specializes in dangerous juggling props.
+- [Bravo Juggling](http://www.bravojuggling.com/) - Sells a variety of juggling props (Hungary).
+- [Brontosaurus Balls](http://brontosaurusballs.com/) - Specializes in russian juggling balls (United States).
+- [Dube](https://www.dube.com/) - Sells a variety of juggling props (United States).
+- [Firetoys](https://www.firetoys.com/) - Sells a variety of juggling props (United States).
+- [Flairco](http://www.flairco.com) - Sells flair bartending supplies (United States).
+- [Flames 'N Games](https://flamesngames.co.uk/) - Sells a variety of juggling props (United Kingdom).
+- [Flowtoys](https://flowtoys.com/) - Sells a variety of juggling props (United States).
+- [Flying Clipper](https://www.flyingclipper.com/) - Sells footbags and juggling balls (United States).
+- [Gballz](https://gballz.com/) - Specializes in juggling balls (United States).
+- [Henrys](https://www.henrys-online.de/en/)- Sells a variety of juggling equipment (Germany).
+- [Higgins Brothers](http://higginsbrothers.com/en/) - Sells a variety of juggling props (Canada).
+- [Master Ongs Prop Shop](http://www.masterongspropshop.com/) - Sells a variety of juggling props (United States).
+- [Odd Balls](https://www.oddballs.co.uk/) - Sells a variety of juggling props (United Kingdom).
+- [Pass the Props](http://passtheprops.com/) - Sells a variety of juggling props (United States).
+- [Play Juggling](https://www.playjuggling.com/en/) - Sells a variety of juggling props (Italy).
+- [Renegade Juggling](https://www.renegadejuggling.com/) - Sells a variety of juggling props (United States).
+- [Sport Juggling Company](http://sportjugglingco.com/) - Specializes in juggling balls (United States).
+- [Todd Smith](http://toddsmith.com/) - Sells a variety of juggling props (United States).
+- [Three Finger Juggling](https://threefingerjuggling.com/) - Specializes in dangerous juggling props (United States).
 
 
 
