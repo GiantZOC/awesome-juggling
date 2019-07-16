@@ -14,7 +14,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Social Sites](#social-sites)
 - [Learning to Juggle](#learning-to-juggle)
-- [Passing References](#passing-references)
+- [Passing Patterns](#passing-patterns)
 - [Tools](#tools)
 - [Videos](#videos)
 - [Misc](#misc)
@@ -30,7 +30,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [How to Juggle](https://www.wikihow.com/Juggle) - The wikiHow page for juggling.
 - [Passing Pedagogy](http://passingpedagogy.com/) - This site explains a methodology for teaching club passing.
 
-## Passing References
+## Passing Patterns
 - [MAJ Pattern Book](https://madjugglers.com/majpatternbook) - A  collection of passing patterns from the Madison Area Jugglers.
 - [Passing Pattern Anthology](https://jonglieren-jena.de/ppa/ppa.html) -  A collection of passing patterns from Markus Oehme.
 - [passingdb.com](https://www.passingdb.com/index.php) - A collection of passing patterns from JiBe (Jean-Baptiste Hurteaux).
@@ -79,6 +79,7 @@ Alphabetical
 - [Flowtoys](https://flowtoys.com/) - Sells a variety of juggling props.
 - [Flying Clipper](https://www.flyingclipper.com/) - Sells footbags and juggling balls.
 - [Gballz](https://gballz.com/) - Specializes in juggling balls.
+- [Henrys](https://www.henrys-online.de/en/)- Sells a variety of juggling equipment.
 - [Higgins Brothers](http://higginsbrothers.com/en/) - Sells a variety of juggling props.
 - [Master Ongs Prop Shop](http://www.masterongspropshop.com/) - Sells a variety of juggling props.
 - [Odd Balls](https://www.oddballs.co.uk/) - Sells a variety of juggling props.
