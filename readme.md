@@ -5,21 +5,22 @@ Awesome Juggling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-This is a curated list of juggling resources.  There are many resources on the web but many of them are out of date or hard to read.  Search engines often don't rank these sites high enough for them to be discoverable. 
+This is a curated list of juggling resources.  There are many resources on the web but many of them are out of date or hard to read.  Search engines often don't rank these sites high enough for them to be easily discoverable. 
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 <br>
 
 ## Contents
 
-- [Social](#social)
+- [Social Sites](#social-sites)
 - [Learning to Juggle](#learning-to-juggle)
 - [Passing References](#passing-references)
 - [Tools](#tools)
 - [Videos](#videos)
 - [Misc](#misc)
+- [Vendors](#vendors)
 
-## Social
+## Social Sites
 - [Juggling Edge](https://www.jugglingedge.com/clublistings.php) - Juggling club listings, upcoming juggling festivals and forum.
 - [/r/Juggling](https://www.reddit.com/r/juggling/) - The largest reddit juggling community.
 - [Juggling Rock](https://www.facebook.com/groups/JugglingRock/) - The most active facebook juggling community.
@@ -30,35 +31,64 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Passing Pedagogy](http://passingpedagogy.com/) - This site explains a methodology for teaching club passing.
 
 ## Passing References
-- [MAJ Pattern Book](https://madjugglers.com/majpatternbook) - This is a compilation of intermediate to advanced juggling patterns from the Madison Area Juggling Club.
-- [Passing Pattern Anthology](https://jonglieren-jena.de/ppa/ppa.html) -  The Passing Pattern Anthology is a large collection of passing patterns.
-- [passingdb.com](https://www.passingdb.com/index.php) - The Passing .Database has a good collection of multiple person passing patterns.
-- [Aerial Mirage Jugglers](http://www.gnerds.com/juggle/) - The aerial mirage jugglers site Contains a great deal of general passing information.
-- [Passing Zone](https://passing.zone/) - The passing zone is an active passing enthusiast group in Germany that works on new passing patterns.
-- [Juggling Edge Passing Patterns](http://www.jugglingedge.com/pdf/PassingPatternsAug06.pdf) - This is an old but good compilation of passing patterns.
-- [Will's Passing Patterns](http://web.csulb.edu/~wmurray/jugglingArticles/WillPatterns.pdf) - A compilation of intermediate to advanced passing patterns from Will.
-- [Compatible Siteswaps](https://www.cs.cmu.edu/~ckaestne/siteswaps.xhtml) - This site has a list of compatible siteswaps with filters.
-- [Two person Passing Pattern Spreadsheet](https://drive.google.com/file/d/0B26BTNBYVjFqdW9mWUgteDZYT00/view?ths=true) - This is a spreadsheet containing a large number of two person passing patterns siteswaps.
-- [Berkeley Juggling Patterns](https://berkeleyjuggling.org/juggling-patterns/) - Passing patterns from the Berkeley Juggling Club.
+- [MAJ Pattern Book](https://madjugglers.com/majpatternbook) - A  collection of passing patterns from the Madison Area Jugglers.
+- [Passing Pattern Anthology](https://jonglieren-jena.de/ppa/ppa.html) -  A collection of passing patterns from Markus Oehme.
+- [passingdb.com](https://www.passingdb.com/index.php) - A collection of passing patterns from JiBe (Jean-Baptiste Hurteaux).
+- [Passing Zone](https://passing.zone/) - A collection of videos and explanations for a variety of passing patterns from the Passing Zone.
+- [Juggling Edge Passing Patterns](http://www.jugglingedge.com/pdf/PassingPatternsAug06.pdf) - A collection of passing patterns from Mark Weston.
+- [Will's Passing Patterns](http://web.csulb.edu/~wmurray/jugglingArticles/WillPatterns.pdf) - A collection of passing patterns from Will Murray.
+- [Berkeley Juggling Patterns](https://berkeleyjuggling.org/juggling-patterns/) - A collection of passing patterns from the Berkeley Juggling Club.
+- [Aerial Mirage Jugglers](http://www.gnerds.com/juggle/) - A collection of passing patterns and explanations from the Aerial Mirage Jugglers.
+- [Aidan's Juggling Resources](http://www.juggle.me.uk/passing/) - A collection of patterns and explanations from Aiden Burns.
 
 ## Tools
-- [Juggling Lab](https://jugglinglab.org/) - Juggling Lab is used to generate and animate juggling patterns.
-- [Gunswap](http://www.gunswap.co/about) - Gunswap is a juggling animator and patern library.
-- [Juggloid](http://juggloid.com/) - Juggleoid is a siteswap animator with a large number of patterns that have already been created.
+- [Juggling Lab](https://jugglinglab.org/) - Software used to generate and animate juggling patterns.
+- [Gunswap](http://www.gunswap.co/about) - A juggling animator and pattern library.
+- [Juggloid](http://juggloid.com/) - A siteswap animator with a large number of patterns that have already been created.
+- [Compatible Siteswaps](https://www.cs.cmu.edu/~ckaestne/siteswaps.xhtml) - A list of compatible siteswaps with filters.
+- [Two person Passing Pattern Spreadsheet](https://drive.google.com/file/d/0B26BTNBYVjFqdW9mWUgteDZYT00/view?ths=true) - A spreadsheet of two person passing patterns siteswaps.
 - [Juggling Graphics](https://juggling.graphics/) - A siteswap graphic creator.
-- [Prechact This](http://www.prechacthis.org/) - Prechact this is a siteswap generator.
-- [Passist](https://passist.org/) - Passist is also siteswap generator.
-- [Siteswap Generator](https://play.google.com/store/apps/details?id=namlit.siteswapgenerator&hl=gsw) - A siteswap generator for android.
-- [Siteswap Suggest](http://joshmermelstein.com/juggle-suggest/) - Siteswap Suggest is a simple siteswap animator with an autocomplete feature.
-- [PassingSync](https://play.google.com/store/apps/details?id=edu.cmu.mastersofflyingobjects.passingsync) - Android app that can tell passing partners what to do in real time.
+- [Prechact This](http://www.prechacthis.org/) - A siteswap generator website.
+- [Passist](https://passist.org/) - A siteswap generator website.
+- [Siteswap Generator](https://play.google.com/store/apps/details?id=namlit.siteswapgenerator&hl=gsw) - A siteswap generator for Android.
+- [Siteswap Suggest](http://joshmermelstein.com/juggle-suggest/) - A siteswap animator with an autocomplete feature.
+- [PassingSync](https://play.google.com/store/apps/details?id=edu.cmu.mastersofflyingobjects.passingsync) - An android app that speaks juggling instructions for passing partners to follow along with.
+- [Madeye](http://madeye.org/juggling/) - A variety of siteswap tools.
 
 ## Videos
-- [Juggling TV](http://juggling.tv/) - Juggling TV is a juggling specific video site.
-- [Manipeo](http://manipeo.com/) - Manipeo is a user submitted juggling video site and newsletter.
+- [Juggling TV](http://juggling.tv/) - A juggling specific video site.
+- [Manipeo](http://manipeo.com/) - A user submitted juggling video site.
 
 ## Misc
-- [Juggling Records](https://www.juggling-records.com/) - Tracks current juggling world records.
-- [Fight Night Combat](http://www.fightnightcombat.com/index.html) - Juggling combat tournaments and standings.
-- [Juggling by Numbers - Numberphile](https://www.youtube.com/watch?time_continue=99&v=7dwgusHjA0Y) - Siteswap explanation video from Numberphile.
-- [Siteswap Bot](https://github.com/loganstafman/siteswap-bot) - This is the source for the reddit siteswap bot.
+- [Juggling Records](https://www.juggling-records.com/) - A tracker for current juggling world records.
+- [Fight Night Combat](http://www.fightnightcombat.com/index.html) - A tracker for juggling combat tournaments and standings.
+- [Juggling by Numbers - Numberphile](https://www.youtube.com/watch?time_continue=99&v=7dwgusHjA0Y) - An explanation video for siteswap.
+- [Siteswap Bot](https://github.com/loganstafman/siteswap-bot) - The source code for the reddit siteswap bot.
 - [Library of Juggling](https://www.libraryofjuggling.com/) - A compilation of juggling tricks with explanations.
+
+## Vendors
+Alphabetical
+
+- [Air Traffic Toys](http://airtraffictoys.com/) - Sells a variety of juggling props from brick and mortar stores based in Minnesota.
+- [Bravo Juggling](http://www.bravojuggling.com/) - Sells a variety of juggling props.
+- [Brontosaurus Balls](http://brontosaurusballs.com/) - Specializes in russian juggling balls.
+- [Dube](https://www.dube.com/) - Sells a variety of juggling props.
+- [Firetoys](https://www.firetoys.com/) - Sells a variety of juggling props.
+- [Flairco](http://www.flairco.com/welcome.cfm) - Sells flair bartending supplies.
+- [Flames 'N Games](https://flamesngames.co.uk/) - Sells a variety of juggling props.
+- [Flowtoys](https://flowtoys.com/) - Sells a variety of juggling props.
+- [Flying Clipper](https://www.flyingclipper.com/) - Sells footbags and juggling balls.
+- [Gballz](https://gballz.com/) - Specializes in juggling balls.
+- [Higgins Brothers](http://higginsbrothers.com/en/) - Sells a variety of juggling props.
+- [Master Ongs Prop Shop](http://www.masterongspropshop.com/) - Sells a variety of juggling props.
+- [Odd Balls](https://www.oddballs.co.uk/) - Sells a variety of juggling props.
+- [Pass the Props](http://passtheprops.com/) - Sells a variety of juggling props.
+- [Play Juggling](https://www.playjuggling.com/en/) - Sells a variety of juggling props.
+- [Renegade Juggling](https://www.renegadejuggling.com/) - Sells a variety of juggling props.
+- [Serious Juggling](http://www.seriousjuggling.com/) - Sells a variety of juggling props.
+- [Sport Juggling Company](http://sportjugglingco.com/) - Specializes in juggling balls.
+- [Todd Smith](http://toddsmith.com/) - Sells a variety of juggling props.
+- [Three Finger Juggling](https://threefingerjuggling.com/) - Specializes in dangerous juggling props.
+
+
+
