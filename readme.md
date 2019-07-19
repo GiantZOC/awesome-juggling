@@ -57,6 +57,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [PassingSync](https://play.google.com/store/apps/details?id=edu.cmu.mastersofflyingobjects.passingsync) - An android app that speaks juggling instructions for passing partners to follow along with.
 - [Madeye](http://madeye.org/juggling/) - A variety of siteswap tools.
 - [Pattern Generator](http://jacos.nl/how-to-use-the-pattern-generator/) - A pattern generator website.
+- [JoePass!](http://koelnvention.de/w/?page_id=151) - Software used to animate juggling patterns.
 
 ## Videos
 - [Juggling TV](http://juggling.tv/) - A juggling specific video site.
