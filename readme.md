@@ -75,6 +75,7 @@ Alphabetical
 
 - [Bravo Juggling](http://www.bravojuggling.com/) - Sells a variety of juggling props (Hungary).
 - [Brontosaurus Balls](http://brontosaurusballs.com/) - Specializes in russian juggling balls (United States).
+- [Cathedral Juggling](http://www.cathedraljuggling.com/) - Sells a variety of juggling props (United States).
 - [Dube](https://www.dube.com/) - Sells a variety of juggling props (United States).
 - [Firetoys](https://www.firetoys.com/) - Sells a variety of juggling props (United States).
 - [Flairco](http://www.flairco.com) - Sells flair bartending supplies (United States).
