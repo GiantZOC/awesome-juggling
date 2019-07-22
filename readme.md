@@ -65,7 +65,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Games
 
-- [siteswap anagrams](http://siteswapgame.herokuapp.com/) - puzzle game for calculating siteswap anagrams
+- [Siteswap Anagrams](http://siteswapgame.herokuapp.com/) - A puzzle game for calculating siteswap anagrams.
 
 ## Misc
 - [Juggling Records](https://www.juggling-records.com/) - A tracker for current juggling world records.
