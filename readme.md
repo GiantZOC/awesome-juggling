@@ -17,6 +17,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Passing Patterns](#passing-patterns)
 - [Tools](#tools)
 - [Videos](#videos)
+- [Games](#games)
 - [Misc](#misc)
 - [Vendors](#vendors)
 
@@ -63,6 +64,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Videos
 - [Juggling TV](http://juggling.tv/) - A juggling specific video site.
 - [Manipeo](http://manipeo.com/) - A user submitted juggling video site.
+
+## Games
+
+- [Siteswap Anagrams](http://siteswapgame.herokuapp.com/) - A puzzle game for calculating siteswap anagrams.
 
 ## Misc
 - [Juggling Records](https://www.juggling-records.com/) - A tracker for current juggling world records.
