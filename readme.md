@@ -50,7 +50,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Compatible Siteswaps](https://www.cs.cmu.edu/~ckaestne/siteswaps.xhtml) - A list of compatible siteswaps with filters.
 - [Two person Passing Pattern Spreadsheet](https://drive.google.com/file/d/0B26BTNBYVjFqdW9mWUgteDZYT00/view?ths=true) - A spreadsheet of two person passing patterns siteswaps.
 - [Juggling Graphics](https://juggling.graphics/) - A siteswap graphic creator.
-- [Prechact This](http://www.prechacthis.org/) - A siteswap generator website.
+- [Prechac This](http://www.prechacthis.org/) - A siteswap generator website.
+- [prech.ac](http://prech.ac) - A url shortener for PrechacThis ([source](https://github.com/prechac/prech.ac))
 - [Passist](https://passist.org/) - A siteswap generator website.
 - [Siteswap Generator](https://play.google.com/store/apps/details?id=namlit.siteswapgenerator&hl=gsw) - A siteswap generator for Android.
 - [Siteswap Suggest](http://joshmermelstein.com/juggle-suggest/) - A siteswap animator with an autocomplete feature.
