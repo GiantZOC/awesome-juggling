@@ -60,6 +60,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Madeye](http://madeye.org/juggling/) - A variety of siteswap tools.
 - [Pattern Generator](http://jacos.nl/how-to-use-the-pattern-generator/) - A pattern generator website.
 - [JoePass!](http://koelnvention.de/w/?page_id=151) - Software used to animate juggling patterns.
+- [JuggleHacker](https://www.jugglehacker.com) - A generator for hijack passing patterns.
 
 ## Videos
 - [Juggling TV](http://juggling.tv/) - A juggling specific video site.
