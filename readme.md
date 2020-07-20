@@ -76,6 +76,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Juggling by Numbers - Numberphile](https://www.youtube.com/watch?time_continue=99&v=7dwgusHjA0Y) - An explanation video for siteswap.
 - [Siteswap Bot](https://github.com/loganstafman/siteswap-bot) - The source code for the reddit siteswap bot.
 - [Library of Juggling](https://www.libraryofjuggling.com/) - A compilation of juggling tricks with explanations.
+- [Skilldex](https://skilldex.org) - An online community to learn, share, and organize juggling skills.
 
 ## Vendors
 Alphabetical
