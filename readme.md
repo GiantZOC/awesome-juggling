@@ -16,8 +16,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Learning to Juggle](#learning-to-juggle)
 - [Passing Patterns](#passing-patterns)
 - [Tools](#tools)
-- [Videos](#videos)
-- [Games](#games)
 - [Misc](#misc)
 - [Vendors](#vendors)
 
@@ -34,41 +32,24 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Passing Patterns
 - [MAJ Pattern Book](https://madjugglers.com/majpatternbook) - A  collection of passing patterns from the Madison Area Jugglers.
 - [Passing Pattern Anthology](https://jonglieren-jena.de/ppa/ppa.html) -  A collection of passing patterns from Markus Oehme.
-- [passingdb.com](https://www.passingdb.com/index.php) - A collection of passing patterns from JiBe (Jean-Baptiste Hurteaux).
 - [Passing Zone](https://passing.zone/) - A collection of videos and explanations for a variety of passing patterns from the Passing Zone.
 - [Juggling Edge Passing Patterns](http://www.jugglingedge.com/pdf/PassingPatternsAug06.pdf) - A collection of passing patterns from Mark Weston.
 - [Will's Passing Patterns](http://web.csulb.edu/~wmurray/jugglingArticles/WillPatterns.pdf) - A collection of passing patterns from Will Murray.
-- [Berkeley Juggling Patterns](https://berkeleyjuggling.org/juggling-patterns/) - A collection of passing patterns from the Berkeley Juggling Club.
-- [Aerial Mirage Jugglers](http://www.gnerds.com/juggle/) - A collection of passing patterns and explanations from the Aerial Mirage Jugglers.
-- [Aidan's Juggling Resources](http://www.juggle.me.uk/passing/) - A collection of patterns and explanations from Aiden Burns.
-- [Passing Wiki](https://passingwiki.org/wiki/Main_Page) - A passing pattern wiki.
-
+- [Berkeley Juggling Patterns](https://berkeleyjuggling.org/patterns/) - A collection of passing patterns from the Berkeley Juggling Club.
+- [Aidan's Juggling Resources](https://www.juggle.me.uk/passing/) - A collection of patterns and explanations from Aiden Burns.
 
 ## Tools
 - [Juggling Lab](https://jugglinglab.org/) - Software used to generate and animate juggling patterns.
-- [Gunswap](http://www.gunswap.co/about) - A juggling animator and pattern library.
 - [Juggloid](http://juggloid.com/) - A siteswap animator with a large number of patterns that have already been created.
 - [Compatible Siteswaps](https://www.cs.cmu.edu/~ckaestne/siteswaps.xhtml) - A list of compatible siteswaps with filters.
 - [Two person Passing Pattern Spreadsheet](https://drive.google.com/file/d/0B26BTNBYVjFqdW9mWUgteDZYT00/view?ths=true) - A spreadsheet of two person passing patterns siteswaps.
 - [Juggling Graphics](https://juggling.graphics/) - A siteswap graphic creator.
-- [Prechac This](http://www.prechacthis.org/) - A siteswap generator website.
-- [prech.ac](http://prech.ac) - A url shortener for PrechacThis ([source](https://github.com/prechac/prech.ac))
 - [Passist](https://passist.org/) - A siteswap generator website.
-- [Siteswap Generator](https://play.google.com/store/apps/details?id=namlit.siteswapgenerator&hl=gsw) - A siteswap generator for Android.
-- [Siteswap Suggest](http://joshmermelstein.com/juggle-suggest/) - A siteswap animator with an autocomplete feature.
-- [PassingSync](https://play.google.com/store/apps/details?id=edu.cmu.mastersofflyingobjects.passingsync) - An android app that speaks juggling instructions for passing partners to follow along with.
+- [Siteswap Generator](https://f-droid.org/packages/namlit.siteswapgenerator/) - A siteswap generator for Android.
+- [Siteswap Suggest](https://joshmermelstein.com/juggle-suggest2/) - A siteswap animator with an autocomplete feature.
 - [Madeye](http://madeye.org/juggling/) - A variety of siteswap tools.
 - [Pattern Generator](http://jacos.nl/how-to-use-the-pattern-generator/) - A pattern generator website.
 - [JoePass!](http://koelnvention.de/w/?page_id=151) - Software used to animate juggling patterns.
-- [JuggleHacker](https://www.jugglehacker.com) - A generator for hijack passing patterns.
-
-## Videos
-- [Juggling TV](http://juggling.tv/) - A juggling specific video site.
-- [Manipeo](http://manipeo.com/) - A user submitted juggling video site.
-
-## Games
-
-- [Siteswap Anagrams](http://siteswapgame.herokuapp.com/) - A puzzle game for calculating siteswap anagrams.
 
 ## Misc
 - [Juggling Records](https://www.juggling-records.com/) - A tracker for current juggling world records.
@@ -81,26 +62,20 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Vendors
 Alphabetical
 
-- [Bravo Juggling](http://www.bravojuggling.com/) - Sells a variety of juggling props (Hungary).
+- [Bravo Juggling](https://www.bravojuggling.com/) - Sells a variety of juggling props (Hungary).
 - [Brontosaurus Balls](http://brontosaurusballs.com/) - Specializes in russian juggling balls (United States).
-- [Cathedral Juggling](http://www.cathedraljuggling.com/) - Sells a variety of juggling props (United States).
+- [Cathedral Juggling](https://www.cathedraljuggling.com/) - Sells a variety of juggling props (United States).
 - [Dube](https://www.dube.com/) - Sells a variety of juggling props (United States).
 - [Firetoys](https://www.firetoys.com/) - Sells a variety of juggling props (United States).
-- [Flairco](http://www.flairco.com) - Sells flair bartending supplies (United States).
-- [Flames 'N Games](https://flamesngames.co.uk/) - Sells a variety of juggling props (United Kingdom).
 - [Flowtoys](https://flowtoys.com/) - Sells a variety of juggling props (United States).
-- [Flying Clipper](https://www.flyingclipper.com/) - Sells footbags and juggling balls (United States).
 - [Gballz](https://gballz.com/) - Specializes in juggling balls (United States).
 - [Henrys](https://www.henrys-online.de/en/)- Sells a variety of juggling equipment (Germany).
-- [Higgins Brothers](http://higginsbrothers.com/en/) - Sells a variety of juggling props (Canada).
-- [Master Ongs Prop Shop](http://www.masterongspropshop.com/) - Sells a variety of juggling props (United States).
+- [Higgins Brothers](https://higginsbrothers.com/) - Sells a variety of juggling props (Canada).
 - [Odd Balls](https://www.oddballs.co.uk/) - Sells a variety of juggling props (United Kingdom).
-- [Pass the Props](http://passtheprops.com/) - Sells a variety of juggling props (United States).
 - [Play Juggling](https://www.playjuggling.com/en/) - Sells a variety of juggling props (Italy).
 - [Renegade Juggling](https://www.renegadejuggling.com/) - Sells a variety of juggling props (United States).
-- [Sport Juggling Company](http://sportjugglingco.com/) - Specializes in juggling balls (United States).
-- [Todd Smith](http://toddsmith.com/) - Sells a variety of juggling props (United States).
 - [Three Finger Juggling](https://threefingerjuggling.com/) - Specializes in dangerous juggling props (United States).
+- [World Footbag/Flying Clipper](https://worldfootbag.com/product-category/juggling/) - Sells footbags and juggling balls (United States).
 
 
 
