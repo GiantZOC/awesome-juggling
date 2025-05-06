@@ -31,10 +31,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Passing Patterns
 - [MAJ Pattern Book](https://madjugglers.com/majpatternbook) - A  collection of passing patterns from the Madison Area Jugglers.
-- [Passing Pattern Anthology](https://jonglieren-jena.de/ppa/ppa.html) -  A collection of passing patterns from Markus Oehme.
+- [Passing Pattern Anthology](https://github.com/GiantZOC/awesome-juggling/blob/master/assets/anthology.pdf) -  A collection of passing patterns from Markus Oehme.
 - [Passing Zone](https://passing.zone/) - A collection of videos and explanations for a variety of passing patterns from the Passing Zone.
-- [Juggling Edge Passing Patterns](http://www.jugglingedge.com/pdf/PassingPatternsAug06.pdf) - A collection of passing patterns from Mark Weston.
-- [Will's Passing Patterns](http://web.csulb.edu/~wmurray/jugglingArticles/WillPatterns.pdf) - A collection of passing patterns from Will Murray.
+- [Juggling Edge Passing Patterns](https://github.com/GiantZOC/awesome-juggling/blob/master/assets/PassingPatternsAug06.pdf) - A collection of passing patterns from Mark Weston.
+- [Will's Passing Patterns](https://github.com/GiantZOC/awesome-juggling/blob/master/assets/WillPatterns.pdf) - A collection of passing patterns from Will Murray.
 - [Berkeley Juggling Patterns](https://berkeleyjuggling.org/patterns/) - A collection of passing patterns from the Berkeley Juggling Club.
 - [Aidan's Juggling Resources](https://www.juggle.me.uk/passing/) - A collection of patterns and explanations from Aiden Burns.
 
